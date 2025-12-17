@@ -1,0 +1,1281 @@
+ 
+ 
+ 
+ 
+                 
+ 
+                  
+LOVELY PROFESSIONAL UNIVERSITY
+ 
+                
+School of MITTAL SCHOOL OF BUSINESS
+ 
+ 
+   
+HR Professional App Design Project
+ 
+ 
+“
+A Practical HR Digitalization Model to Enhance Efficiency and Automation in 
+SMEs: A Case Study on HR App Design for 
+RohTre Media Pvt. Ltd.
+”
+ 
+ 
+ 
+Submitted in partial fulfilment of the requirements for the award of the degree of
+ 
+Master of Business 
+Administration (MBA)
+ 
+ 
+ 
+ 
+Course Code: 
+HRMM504
+ 
+Course Title:
+ 
+Organization Behaviour and Human Resource Dynamics II
+ 
+Course Instructor: 
+Dr. Tanya 
+Nagpal 
+ 
+Academic Task no
+: CA 
+1
+ 
+Date of Allotment
+: 
+4.11.2025
+ 
+Date of Submission
+: 
+20.11.2025
+ 
+Students Reg. No;
+ 
+12524191, 
+12515119
+, 
+12506769
+, 
+12520050
+ 
+Module:
+ 
+2
+ 
+Section
+: Q2560
+ 
+Marks:
+ 
+30
+ 
+Obtained:
+ 
+ 
+
+
+ 
+GROUP MEMBERS AND THEIR PEER RATINGS 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Name 
+ 
+ 
+ 
+ 
+ 
+Registration
+ 
+no
+ 
+ 
+ 
+ 
+ 
+ 
+Section 
+ 
+ 
+ 
+ 
+ 
+Roll No 
+ 
+ 
+ 
+ 
+ 
+Peer 
+rating 
+ 
+ 
+ 
+ 
+ 
+Ashish 
+ 
+Chaurasia
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12524191
+ 
+ 
+ 
+ 
+ 
+Q2560
+ 
+ 
+ 
+ 
+ 
+ 
+Q2560A18
+ 
+ 
+ 
+ 
+ 
+10
+ 
+ 
+Jayant 
+Choudhary
+ 
+ 
+12515119
+ 
+ 
+Q2560
+ 
+ 
+Q2560A05
+ 
+ 
+7
+ 
+ 
+ 
+ 
+Yashodhara 
+ 
+Mandal 
+ 
+ 
+ 
+ 
+ 
+ 
+12506769
+ 
+ 
+ 
+ 
+ 
+ 
+Q2560
+ 
+ 
+ 
+ 
+ 
+ 
+Q2560A07
+ 
+ 
+ 
+ 
+ 
+ 
+9
+ 
+ 
+ 
+ 
+ 
+ 
+Bharti  
+ 
+ 
+ 
+ 
+ 
+12520050
+ 
+ 
+ 
+ 
+ 
+Q2560
+ 
+ 
+ 
+ 
+ 
+ 
+Q2560A17
+ 
+ 
+ 
+ 
+ 
+ 
+8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+Acknowledgement
+ 
+ 
+ 
+ 
+ 
+ 
+I would like to express my sincere gratitude to my faculty, 
+Dr. Tanya Nagpal
+, for 
+their invaluable guidance and support. Their insights were crucial to my learning 
+and the completion of this project. I am also very thankful to my family and friends 
+for 
+their constant encouragement
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Declaration
+ 
+ 
+ 
+ 
+ 
+ 
+I declare that this assignment is my individual work. I have not copied it from any 
+other student
+’
+s work or from any other source except where due acknowledgement 
+is made explicitly in the text, nor ha
+s any part been written for me by any other 
+person. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Student
+’
+s signature
+: 
+Yashodhara Mandal, Bharti, Ashish Chaurasia
+, Jayant 
+Choudhary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+1. Introduction
+ 
+1.1 Objective of the Project
+ 
+The main objective of this project is to analyze
+ 
+the Human Resource Management 
+(HRM) practices at 
+RohTre Media Pvt. Ltd.
+ 
+and propose a conceptual 
+Human Resource 
+Application (HR App)
+ 
+that can simplify HR operations such as recruitment, attendance, 
+payroll, and employee engagement.
+ 
+The proposed app aims t
+o bridge the gap between manual HR processes and digital 
+transformation by providing a unified, automated, and user
+-
+friendly platform for both 
+HR professionals and employees.
+ 
+1.2 Methodology
+ 
+The study combines both 
+primary and secondary research methods
+:
+ 
+
+ 
+Primary Research:
+ 
+Conducted through a structured questionnaire and direct 
+communication with the HR team of RohTre Media Pvt. Ltd.
+ 
+
+ 
+Secondary Research:
+ 
+Involved reviewing industry reports and global HR software 
+such as 
+Workday
+, 
+SAP SuccessFactors
+, 
+Oracle 
+HCM
+, and 
+Zoho People
+ 
+to 
+understand trends and limitations.
+ 
+
+ 
+Comparative Analysis:
+ 
+Evaluated features and performance of existing tools to 
+identify improvement areas suitable for SMEs.
+ 
+1.3 Company Overview
+ 
+RohTre Media Pvt. Ltd.
+ 
+is a digital marketing and cr
+eative media company providing 
+end
+-
+to
+-
+end branding, content creation, digital campaigns, and media strategy services.
+ 
+The company works with a variety of clients, offering services in 
+advertising, influencer 
+marketing, and brand communications
+.
+ 
+(
+www.rohtremedia.com
+)
+ 
+
+ 
+Headquarters:
+ 
+Noida, Uttar Pradesh, India
+ 
+
+ 
+Industry:
+ 
+Digital Marketing & Creative Media
+ 
+
+ 
+Workforce:
+ 
+Approximately 
+40
+–
+60 
+employees across marketing, creative, HR, and 
+operations teams.
+ 
+Existing 
+HR System:
+ 
+The HR operations are primarily managed through 
+manual Excel sheets
+, 
+Google 
+Workspace
+, and 
+email
+-
+based communication
+. Attendance, leave records, and payroll 
+data are manually entered each month, making HR processes time
+-
+consuming and 
+prone to hu
+man error.
+ 
+ 
+
+
+2. Problem Statement
+ 
+2.1 Identified Issues
+ 
+Area
+ 
+Current Practice
+ 
+Challenges Faced
+ 
+Attendance Tracking
+ 
+Maintained on Excel sheets
+ 
+Manual errors, no real
+-
+time 
+visibility
+ 
+Payroll Processing
+ 
+Done via spreadsheet
+-
+based 
+templates
+ 
+Repetitive data 
+entry, risk of 
+calculation mistakes
+ 
+Leave Management
+ 
+Managed through emails
+ 
+Delayed approvals, no centralized 
+record
+ 
+Employee 
+Communication
+ 
+Conducted through 
+WhatsApp or email
+ 
+Lack of structured communication
+ 
+Data Storage
+ 
+Maintained in Google Drive
+ 
+Scattered data, difficult retrieval
+ 
+ 
+2.2 Problem Summary
+ 
+The HR team spends a significant amount of time manually handling routine HR tasks 
+such as attendance, payroll, and reporting. The absence of an integrated HR software 
+results in inefficiency, repeti
+tive work, and increased chances of data errors. These 
+issues affect overall productivity and employee satisfaction within the organization.
+ 
+ 
+2.3 Need for an HR App
+ 
+A single integrated HR App is required to:
+ 
+
+ 
+Automate attendance, leave, and payroll managem
+ent.
+ 
+
+ 
+Reduce dependency on manual data entry.
+ 
+
+ 
+Provide real
+-
+time analytics and dashboard insights.
+ 
+
+ 
+Ensure smoother communication and transparency between HR and employees.
+ 
+
+ 
+Enable accessibility through mobile and web platforms for all employees.
+ 
+ 
+ 
+
+
+3. Research
+ 
+& Analysis (Q1)
+ 
+3.1 HR Technology Trends
+ 
+Modern organizations are rapidly adopting HR technology for process automation. Key 
+trends include:
+ 
+
+ 
+Cloud
+-
+based HR Systems:
+ 
+Allow flexible, scalable HR management accessible 
+anywhere.
+ 
+
+ 
+AI & Automation:
+ 
+Used for screening, analytics, and employee engagement.
+ 
+
+ 
+Employee Self
+-
+Service Portals (ESS):
+ 
+Empower employees to manage their own 
+HR activities like leaves and payslips.
+ 
+
+ 
+Mobile
+-
+first Platforms:
+ 
+Support remote working and attendance logging through 
+mobile
+ 
+devices.
+ 
+
+ 
+Data
+-
+driven HR:
+ 
+Enable decision
+-
+making through insights, dashboards, and 
+analytics.
+ 
+ 
+3.2 Comparative Analysis of HR Systems
+ 
+Company
+ 
+HR Software Used
+ 
+Key Features
+ 
+Limitations
+ 
+RohTre Media 
+Pvt. Ltd.
+ 
+Excel, Google 
+Workspace
+ 
+Low cost, easy to use
+ 
+Manual, lacks 
+automation
+ 
+Infosys
+ 
+Workday
+ 
+AI
+-
+based analytics, 
+automated payroll
+ 
+Complex UI, expensive
+ 
+TCS
+ 
+SAP SuccessFactors
+ 
+End
+-
+to
+-
+end HR 
+management
+ 
+High implementation 
+cost
+ 
+Wipro
+ 
+Zoho People
+ 
+Cloud
+-
+based, affordable
+ 
+Limited customization
+ 
+Tech Mahindra
+ 
+Oracle HCM
+ 
+Advanced analytics, AI
+-
+driven
+ 
+Costly, requires 
+technical setup
+ 
+ 
+Insight:
+ 
+Large enterprises can afford advanced HR suites, while SMEs like RohTre Media need 
+simple, affordable, mobile
+-
+based HR systems
+ 
+focused on automation and ease of use.
+ 
+ 
+
+
+ 
+4. 
+Data Collection & Analysis
+ 
+4.1 Survey Method
+ 
+A structured 
+questionnaire
+ 
+was prepared (attached in Annexure 1) and shared with HR 
+professionals, including those at RohTre Media Pvt. Ltd.
+ 
+Primary data was collected via 
+Google Forms
+ 
+and verified through an 
+em
+ail response
+ 
+from the HR team.
+ 
+ 
+4.2 Survey Observations
+ 
+Key observations from the HR responses:
+ 
+
+ 
+The current system relies entirely on Excel and email
+-
+based communication.
+ 
+
+ 
+Payroll is manually calculated, leading to time inefficiency.
+ 
+
+ 
+HRs prefer a 
+mobile
+-
+compatible app
+ 
+that integrates attendance and payroll.
+ 
+
+ 
+Rated their current system as 
+average
+ 
+in terms of usability and automation.
+ 
+ 
+4.3 Key Findings
+ 
+1.
+ 
+Manual processes cause data duplication and calculation errors.
+ 
+2.
+ 
+There is no central platform to 
+integrate attendance, payroll, and leaves.
+ 
+3.
+ 
+HR professionals desire a 
+simplified dashboard
+ 
+and 
+mobile application
+.
+ 
+4.
+ 
+A cost
+-
+effective system is necessary for adoption by SMEs.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+5. Target Audience & User Personas (Q2)
+ 
+5.1 Target Users
+ 
+
+ 
+HR Managers:
+ 
+Mana
+ge employee lifecycle, payroll, attendance, and analytics.
+ 
+
+ 
+Employees:
+ 
+Apply for leaves, mark attendance, view payslips, and stay updated.
+ 
+
+ 
+Supervisors / Team Leads:
+ 
+Approve attendance and leaves, track productivity.
+ 
+
+ 
+Management:
+ 
+View summarized dashboards an
+d HR analytics for decisions.
+ 
+ 
+5.2 User Personas 
+ 
+Persona 1 
+—
+ 
+Himesh Chaurasia
+ 
+(HR Manager)
+ 
+Background / Role:
+ 
+Himesh Chaurasia
+, aged 2
+2
+, works as the HR Manager at RohTre Media Pvt. Ltd. 
+H
+e 
+oversees payroll, attendance, recruitment, and compliance 
+management. H
+is
+ 
+role 
+involves coordinating across teams and ensuring that HR data is accurate and up to 
+date.
+ 
+Key Goals:
+ 
+
+ 
+To maintain accuracy in payroll and attendance.
+ 
+
+ 
+To streamline repetitive HR processes through automation.
+ 
+
+ 
+To manage employee records 
+efficiently with minimal errors.
+ 
+
+ 
+To generate HR analytics and monthly reports quickly.
+ 
+Current Pain Points:
+ 
+
+ 
+Manual data entry is repetitive and error
+-
+prone.
+ 
+
+ 
+No direct integration between attendance and payroll systems.
+ 
+
+ 
+Delays in leave approvals and employe
+e communication.
+ 
+
+ 
+Scattered files and lack of data security.
+ 
+How the App Helps (Solution):
+ 
+
+ 
+Automated Attendance & Payroll Sync:
+ 
+Reduces manual effort and payroll 
+mismatches.
+ 
+
+ 
+Centralized Dashboard:
+ 
+Offers real
+-
+time employee data and attendance tracking.
+ 
+
+
+
+ 
+Digi
+tal Leave Management:
+ 
+Streamlines approvals and notifications.
+ 
+
+ 
+Data Accuracy:
+ 
+Ensures HR records are updated automatically with minimal 
+human error.
+ 
+ 
+ 
+6. Feature Set & Prioritization (Q3)
+ 
+6.1 Must
+-
+Have Features
+ 
+
+ 
+Attendance & Leave Management (with GPS taggi
+ng)
+ 
+
+ 
+Payroll Automation and Payslip Generation
+ 
+
+ 
+Employee Self
+-
+Service (ESS) Dashboard
+ 
+
+ 
+Real
+-
+time HR Analytics Dashboard
+ 
+6.2 Should
+-
+Have Features
+ 
+
+ 
+Manager Approval for Attendance / Leave
+ 
+
+ 
+Notification System for updates and reminders
+ 
+
+ 
+Document Repository for 
+employee records
+ 
+6.3 Nice
+-
+to
+-
+Have Features
+ 
+
+ 
+AI Chatbot for HR FAQs
+ 
+
+ 
+Integration with Biometric Systems
+ 
+
+ 
+Employee Feedback Portal
+ 
+ 
+Feature
+ 
+Priority
+ 
+Rationale
+ 
+Attendance & Payroll 
+Integration
+ 
+Must
+ 
+Solves core manual processing issue
+ 
+Employee Self
+-
+Service
+ 
+Must
+ 
+Reduces HR workload, improves 
+transparency
+ 
+HR Analytics Dashboard
+ 
+Should
+ 
+Supports management decision
+-
+making
+ 
+AI Chatbot / Feedback System
+ 
+Nice
+ 
+Enhances employee engagement
+ 
+
+
+ 
+ 
+7. Recommendations
+ 
+1.
+ 
+Develop a 
+cloud
+-
+based HR App
+ 
+customized for SMEs like 
+RohTre Media Pvt. Ltd.
+ 
+2.
+ 
+Focus on 
+automation of repetitive HR tasks
+ 
+and 
+mobile
+-
+friendly design
+.
+ 
+3.
+ 
+Ensure 
+data privacy and security features
+ 
+for employee information.
+ 
+4.
+ 
+Provide a 
+modular approach
+ 
+to allow scalability (attendance, payroll, etc.).
+ 
+5.
+ 
+Conduct 
+pilot tes
+ting
+ 
+within RohTre Media to evaluate user satisfaction.
+ 
+ 
+8. Conclusion
+ 
+The study concludes that RohTre Media Pvt. Ltd. needs an efficient, automated HR App 
+to replace manual Excel
+-
+based systems.
+ 
+The research findings highlight the need for an affordable, 
+user
+-
+friendly solution that 
+integrates attendance, payroll, and employee engagement.
+ 
+The proposed HR App would help improve HR efficiency, reduce errors, enhance 
+employee experience, and support digital transformation within the organization.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+9
+. Annexure
+ 
+
+ 
+Annexure 1:
+ 
+HR Questionnaire Form
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ 
+Annexure 2:
+ 
+Screenshot of HR Email Response
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+Annexure 
+3
+:
+ 
+Interaction With HR
+ 
+ 
+ 
+
+ 
+Annexure 
+4
+:
+ 
+Source Links for HR Systems Compared
+ 
+ 
+1.
+ 
+Infosys 
+–
+ 
+Workday Case Study:
+ 
+ 
+https://www.workday.com/en
+-
+us/customers/infosys
+-
+case
+-
+study.html
+ 
+ 
+2.
+ 
+TCS 
+–
+ 
+SAP SuccessFactors:
+ 
+ 
+https://www.sap.com/india/products/hcm/successfactors.html
+ 
+ 
+3.
+ 
+Wipro 
+–
+ 
+Zoho People HR Suite:
+ 
+ 
+https://www.zoho.com/people/case
+-
+studies/
+ 
+ 
+4.
+ 
+Tech Mahindra 
+–
+ 
+Oracle HCM:
+ 
+ 
+https://www.oracle.com/customers/tech
+-
+mahindra/
+ 
+ 
+ 
+
+
+ 
+
+ 
+Annexure 
+5
+:
+ 
+Company Website 
+–
+ 
+rohtremedia.com
+ 
+ 
+ 
+
+ 
+Annexure 
+6
+:
+ 
+Secondary Research:
+ 
+Involved 
+reviewing industry reports and 
+global HR software such as Workday, SAP SuccessFactors, Oracle HCM, and Zoho 
+People to understand trends and limitations.
+ 
+Sources:
+ 
+1.
+ 
+Workday HCM:
+ 
+https://www.workday.com/en
+-
+us/applications/human
+-
+capital
+-
+management.html
+ 
+2.
+ 
+SAP SuccessFactors:
+ 
+https://www.sap.com/products/hcm/successfactors.html
+ 
+3.
+ 
+Oracle HCM:
+ 
+https://www.oracle.com/human
+-
+capital
+-
+management/
+ 
+4.
+ 
+Zoho People
+: 
+https://www.zoho.com/people/
+ 
+ 
+      
+Annexure 
+7
+:
+ 
+INTERVIEW FOR EMPA
+THY
+ 
+ 
+ 
